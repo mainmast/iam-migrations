@@ -1,4 +1,4 @@
-module gitlab.com/mainmast/microservices/iam/migrations.git
+module github.com/mainmast/iam-migrations
 
 require (
 	github.com/golang-migrate/migrate/v4 v4.7.0
